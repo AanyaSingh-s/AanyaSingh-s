@@ -1,6 +1,8 @@
 
 # Aanya Singh
-
+<p align="center">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009ba871fa89df21de10c96746&ts=492803&p=fs&cid=1&sig=55e44d7d1889494c1286efbc4393710f6447f202a7ceb605a455c2605b5665e7&v=0" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=FF69B4&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;ML+%26+NLP+Builder+%F0%9F%A7%A0;Hackathon+Finalist+%F0%9F%8F%86;Building+Impactful+Tech+%F0%9F%9A%80" />
 </p>
@@ -137,7 +139,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AanyaSingh-s/AanyaSingh-s/output/snake.svg" />
@@ -149,7 +150,4 @@
 
 > “Don’t just learn code. Build things that make people stop and say — damn, that’s cool.”
 
----
-
-This is already 🔥 — but we can make it **top 1% GitHub profile** 😎
 
