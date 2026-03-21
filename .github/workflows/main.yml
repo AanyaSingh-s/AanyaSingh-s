@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: AanyaSingh-s
           outputs: |
-            dist/snake.svg?color_snake=gradient(#00f0ff,#a100ff)&color_dots=#0d1117,#0f3d3e,#00f0ff,#6f00ff,#a100ff
+            dist/snake.svg?color_snake=#00D9FF&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
