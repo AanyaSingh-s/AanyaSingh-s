@@ -1,5 +1,7 @@
 
-# Aanya Singh
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 <p align="center">
   <img src="banner.png" />
 </p>
@@ -7,9 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=FF69B4&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;ML+%26+NLP+Builder+%F0%9F%A7%A0;Hackathon+Finalist+%F0%9F%8F%86;Building+Impactful+Tech+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AanyaSingh-s&label=Profile+Views&color=ff69b4&style=flat" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=AANYA+SINGH;SOFTWARE+DEVELOPER;ML+%26+NLP+ENGINEER" />
+</h1>
 
 ---
 
