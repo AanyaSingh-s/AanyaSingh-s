@@ -12,7 +12,7 @@
 
 ## About Me
 
-💻 Computer Science Engineer @ **VIT Bhopal (CGPA: 8.81)**
+💻 Computer Science Engineer @ **VIT Bhopal (CGPA: 8.89)**
 🧠 Passionate about **AI, NLP & Full Stack Development**
 🚀 Built **real-time dashboards, ML pipelines & web platforms**
 🏆 **Hackathon Finalist** (Codeverse – VIT Bhopal)
